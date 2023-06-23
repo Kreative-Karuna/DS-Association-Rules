@@ -25,15 +25,19 @@ and by devising strategies to increase revenues and develop effective sales stra
  5. Deployment
  6. Monitoring and Maintenance
 
-# **Objective:** Maximize Profits
+# **Objective:** 
+     Maximize Profits
  
-# **Constraints:** Minimize Marketing Cost
+# **Constraints:** 
+    Minimize Marketing Cost
 
 # **Success Criteria**
 
-# ***Business Success Criteria**: Improve the cross selling in Retail Store by 15% - 20%
+# ***Business Success Criteria**: 
+    Improve the cross selling in Retail Store by 15% - 20%
 
-# ***ML Success Criteria**: Accuracy : NA; 
+# ***ML Success Criteria**: 
+    Accuracy : improvemebt in the existing accuracy
     Performance : Complete processing within 5 mins on every quarter data
 
 # ***Economic Success Criteria**: Increase the Retail Store profits by atleast 15%
